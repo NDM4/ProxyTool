@@ -8,3 +8,5 @@ Check HTTP, SOCKS4 and SOCKS5 proxies easily.
 ---
 
 Usage: main.py [-h] -i INPUT [-t THREADS]
+Example: main.py -i proxies.txt
+Example: main.py -i proxies.txt -t 250
